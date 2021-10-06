@@ -10,13 +10,21 @@
   <img align="left" alt="Matias Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />
 </a>
 
-<br />
-<br />
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
 
 Hi there, I'm **Matias Costilla**, a **Full Stack Developer**  and a **Programming Technician  Student** 🚀 from Tucumán.  Currently, I'm a Community Team Member 🙍🏽‍♂️ [@PetucsDev](https://github.com/PetucsDev). 
 
   <img align="right" alt="GIF" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" />
 
+<br>
+<br>
+<br>
+<br>
 <br>
 <br>
 
@@ -38,6 +46,10 @@ Hi there, I'm **Matias Costilla**, a **Full Stack Developer**  and a **Programmi
 <img src="https://user-images.githubusercontent.com/83410864/132431781-56df5173-e8b2-4ac6-ac56-059f33cc4d0d.png" align="center" style="width: 60%" "height : 50%" />
 </div>
 
+<br>
+<br>
+<br>
+<br>
 <br>
 <br>
 
