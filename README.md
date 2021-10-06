@@ -38,7 +38,7 @@ Hi there, I'm **Matias Costilla**, a **Full Stack Developer**  and a **Programmi
 <br>
 
 
-<h2>Skills and Soft-Skills</h2>
+<h2>Skills and Soft-Skills:</h2>
 <div align="center">
 <img src="https://user-images.githubusercontent.com/83410864/132431781-56df5173-e8b2-4ac6-ac56-059f33cc4d0d.png" align="center" style="width: 60%" "height : 50%" />
 </div>
